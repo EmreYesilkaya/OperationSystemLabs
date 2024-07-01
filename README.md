@@ -36,13 +36,13 @@ This repository contains the lab assignments completed for the OS Security cours
 
 ### Repository Structure
 OS_Security_Labs/
-├── Lab1-SysinternalsTools.md
-├── Lab2-PowerShellScript.md
-├── Lab3-CSharpScript.md
-├── Lab4-SystemInformation.md
-├── Lab5-RecordManagement.md
-├── Lab6-ProcessManagement.md
-├── Lab7-ProcessManagement.md
+-├── Lab1-SysinternalsTools.md
+-├── Lab2-PowerShellScript.md
+-├── Lab3-CSharpScript.md
+-├── Lab4-SystemInformation.md
+-├── Lab5-RecordManagement.md
+-├── Lab6-ProcessManagement.md
+-├── Lab7-ProcessManagement.md
 
 
 ### Setup and Usage
