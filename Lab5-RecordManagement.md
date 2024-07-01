@@ -6,7 +6,7 @@
 
 ### C# Console Application: System and Event Log Information
 
-Bu lab, sistem bilgilerini toplayan ve belirli bir uygulamanın olay günlüklerini gösteren bir C# konsol uygulamasını içermektedir.
+This lab includes a C# console application that collects system information and displays event logs for a specific application.
 
 #### Script İçeriği:
 
