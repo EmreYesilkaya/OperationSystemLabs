@@ -6,7 +6,7 @@
 
 ### PowerShell Script: Process Management
 
-Bu lab, kullanıcıların belirli bir parametreye göre süreçleri aramasına, izlemesine ve Windows kayıt defterine betiğin çalışma süresini güncellemesine olanak tanıyan bir PowerShell betiğini içermektedir.
+This lab includes a PowerShell script that allows users to search for processes based on a specific parameter, monitor them, and update the script's runtime to the Windows registry.
 
 #### Script İçeriği:
 
