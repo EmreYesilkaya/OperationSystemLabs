@@ -6,8 +6,7 @@
 
 ### C# Script: Process Management
 
-Bu lab, mevcut işlemleri listeleyen, CPU kullanımına göre en üstteki işlemleri dosyaya yazan ve Notepad uygulamasını kapatma seçeneği sunan bir C# betiği içermektedir.
-
+This lab includes a C# script that lists current processes, writes the top processes to file based on CPU usage, and provides the option to close the Notepad application.
 #### Script İçeriği:
 
 ```csharp
