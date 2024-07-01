@@ -6,8 +6,7 @@
 
 ### PowerShell Script: System and Service Information Management
 
-Bu lab, sistem bilgilerini ve servis durumlarını dosyalara kaydeden, kullanıcı tarafından belirli bir servis hakkında bilgi sağlayan, belirli bir uygulamanın olay günlüklerini dosyalara yazan ve SysInternal uygulamalarını çağıran bir PowerShell betiğini içermektedir.
-
+This lab includes a PowerShell script that logs system information and service statuses to files, provides information about a specific service by the user, writes event logs of a specific application to files, and calls SysInternal applications.
 #### Script İçeriği:
 
 ```powershell
